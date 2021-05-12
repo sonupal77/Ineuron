@@ -1,0 +1,31 @@
+Answer 1 : (a) * = Expression
+           (b) 'hello' = Value
+           (c) -87.8 = Value
+           (d) - = Expression
+           (e) / = Expression
+           (f) + = Expression
+           (g) 6 = Value
+           
+Answer 2 : Variable - It is used for store information
+           String - It is a type of information that store in variable. It can be written in '' or ""
+           
+Answer 3 : Three different data types are:
+           (a) Integer - It is a number which does not have any decimal value. eg- 6,7,100
+           (b) Float - It is a number which contain decimal value. eg- 4.5, 12.0
+           (c) String - It is a collection of characters. eg- 'hello'
+           
+Answer 4 : Expression is made of values, variables, operator and constant. It is used to convert the expression into valuable              result  
+
+Answer 5 : Expression - It is made of values, variables, operator and constant. It is used to convert the expression into                  valuable result 
+           Statement - It can contain zero or more expression.  
+           
+Answer 6 : bacon = 23
+
+Answer 7 : spamspamspam
+           spamspamspam
+           
+Answer 8 : Eggs a valid variable name while 100 is invalid variable name because variable name start from alphabet or                      underscore(_). 
+
+Answer 9 : The functions can be used to get the integer, floating-point number, or string version of a value are int(),                    float(), str()
+
+Answer 10 : This function gives an error because string can be concate only with string. If you concate int or float with                   string it throws an error. 
